@@ -1,4 +1,4 @@
-# Hi, I'm Ahmad Abed 
+Ahmad Abed 
 
 **DevOps Engineer** · Cloud Infrastructure · CI/CD Automation · Kubernetes · Infrastructure as Code · Security · Observability
 
