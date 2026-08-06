@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ahmad-abed-4ba353200">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ahmad.abee2000@gmail.com">
+  <a href="mailto:ahmad.abed2000@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/ahmadabed1">
@@ -75,7 +75,7 @@ I'm open to conversations around **DevOps, Platform Engineering, Cloud Infrastru
   <a href="https://www.linkedin.com/in/ahmad-abed-4ba353200">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ahmad.abee2000@gmail.com">
+  <a href="mailto:ahmad.abed2000@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
