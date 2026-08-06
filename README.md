@@ -1,4 +1,4 @@
-Ahmad Abed 
+# Hi, I'm Ahmad Abed 👋
 
 **DevOps Engineer** · Cloud Infrastructure · CI/CD Automation · Kubernetes · Infrastructure as Code · Security · Observability
 
@@ -18,32 +18,9 @@ My day-to-day spans building CI/CD pipelines, running Kubernetes and AWS environ
 - **Monitoring & Reliability** — Instrument services with Datadog, investigate alerts, and lead production incident troubleshooting.
 - **Build Infrastructure** — Manage Linux and Windows build agents, automate AMI creation, and maintain artifact and package repositories.
 
-
-
 ## 🧰 Tech Stack
 
-AWS
-Kubernetes
-Docker
-Helm
-Argo CD
-Terraform
-Jenkins
-GitHub Actions
-Git
-Datadog
-Snyk
-Trivy
-Linux
-Windows Server
-Bash
-PowerShell
-Python
-Groovy
-YAML
-Redis
-Snowflake
-Postman
+`AWS` `Kubernetes` `Docker` `Helm` `Argo CD` `Terraform` `Jenkins` `GitHub Actions` `Git` `Datadog` `Snyk` `Trivy` `Linux` `Windows Server` `Bash` `PowerShell` `Python` `Groovy` `YAML` `Redis` `Snowflake` `Postman`
 
 ## 🎯 Current Focus
 
@@ -53,3 +30,5 @@ Improving deployment reliability, infrastructure security posture, cloud cost ef
 
 I'm open to conversations around **DevOps, Platform Engineering, Cloud Infrastructure, and Site Reliability Engineering**.
 
+- **Email** — [ahmad.abed2000@gmail.com](mailto:ahmad.abed2000@gmail.com)
+- **LinkedIn** — [ahmad-abed-4ba353200](https://www.linkedin.com/in/ahmad-abed-4ba353200)
