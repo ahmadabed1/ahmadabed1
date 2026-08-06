@@ -4,7 +4,6 @@
   <b>DevOps Engineer</b> · Cloud Infrastructure · CI/CD Automation · Kubernetes · Infrastructure as Code · Security · Observability
 </p>
 
----
 
 ## 👨‍💻 About Me
 
