@@ -5,7 +5,7 @@
 </p>
 
 
-## 👨‍💻 About Me
+## 👨‍💻 Who I Am
 
 I'm a DevOps Engineer who designs, automates, and operates reliable production infrastructure at scale. I build CI/CD pipelines with Jenkins, shared libraries, and GitHub Actions; run and scale AWS and Kubernetes environments; provision infrastructure as code with Terraform; and secure the platform through vulnerability scanning, hardened images, and least-privilege access. I also manage Linux and Windows build agents, container images and registries, and keep services observable with Datadog — investigating alerts and leading production troubleshooting. My goal is always the same: less manual work, shorter feedback loops, and a platform teams can ship on safely and quickly.
 
